@@ -13,6 +13,7 @@
 - notebook da solução
 - source-code
 - requirements.txt
+
 Importante: compartilhar o repositrio privado para que não possa ser acessado por outros participantes.
 
 **Dados**: train_df.csv
